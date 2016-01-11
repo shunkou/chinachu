@@ -1,7 +1,7 @@
 enc
 ===
 
-requirements
+Requirements
 ------------
 
 ### Ruby ###
@@ -10,7 +10,7 @@ ruby-2.2.0 or later
 ### ffmpeg ###
 libfdk_aac and libx264 are required
 
-installartion
+Installation
 -------------
 add crontab
 ```
